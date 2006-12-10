@@ -11,7 +11,7 @@ header-y += affs_fs.h affs_hardblocks.h aio_abi.h a.out.h arcfb.h	\
 	consolemap.h cycx_cfm.h dm-ioctl.h dn.h dqblk_v1.h		\
 	dqblk_v2.h dqblk_xfs.h efs_fs_sb.h elf-fdpic.h elf.h elf-em.h	\
 	fadvise.h fd.h fdreg.h ftape-header-segment.h ftape-vendors.h	\
-	fuse.h futex.h genetlink.h gen_stats.h gigaset_dev.h hdsmart.h	\
+	fuse.h genetlink.h gen_stats.h gigaset_dev.h hdsmart.h	\
 	hpfs_fs.h hysdn_if.h i2c-dev.h i8k.h icmp.h			\
 	if_arcnet.h if_arp.h if_bonding.h if_cablemodem.h if_fc.h	\
 	if_fddi.h if.h if_hippi.h if_infiniband.h if_packet.h		\
@@ -36,7 +36,7 @@ unifdef-y += acct.h adb.h adfs_fs.h agpgart.h apm_bios.h atalk.h	\
 	cn_proc.h coda.h connector.h cramfs_fs.h cuda.h cyclades.h	\
 	dccp.h dirent.h divert.h elfcore.h errno.h errqueue.h		\
 	ethtool.h eventpoll.h ext2_fs.h ext3_fs.h fb.h fcntl.h		\
-	filter.h flat.h fs.h ftape.h gameport.h generic_serial.h	\
+	filter.h flat.h fs.h ftape.h futex.h gameport.h generic_serial.h	\
 	genhd.h hayesesp.h hdlcdrv.h hdlc.h hdreg.h hiddev.h hpet.h	\
 	i2c.h i2o-dev.h icmpv6.h if_bridge.h if_ec.h			\
 	if_eql.h if_ether.h if_frad.h if_ltalk.h if_pppox.h		\
